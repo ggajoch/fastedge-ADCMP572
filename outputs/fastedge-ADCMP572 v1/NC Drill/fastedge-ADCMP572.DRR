@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: fastedge-ADCMP572.PcbDoc   17.05.2026  23:49:56
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L4
+ASCII RoundHoles File : fastedge-ADCMP572-RoundHoles.TXT
+ASCII SlotHoles File : fastedge-ADCMP572-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             157       PTH        7.08inch (179.71mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.17mm)
+T3      55mil (1.4mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T4      63mil (1.6mm)                                             Round             4         PTH        0.60inch (15.24mm)
+T5      26mil (0.65mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              168
+
+Total Processing Time (hh:mm:ss) : 00:00:00
