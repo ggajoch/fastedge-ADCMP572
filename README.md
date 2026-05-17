@@ -1,5 +1,7 @@
 # fastedge-ADCMP572
 
+![Board render](render.png)
+
 Fast rising-edge generator board for time-domain measurements and high-bandwidth scope/probe characterization.
 
 ## Specs
@@ -30,6 +32,8 @@ Latest revision under `outputs/fastedge-ADCMP572 v1/`:
 - Gerber + NC Drill
 - BOM (`.xlsx`)
 - 3D model (`.step`)
-- Schematic & assembly PDFs
+- [Schematic & board views (PDF)](outputs/fastedge-ADCMP572%20v1/fastedge-ADCMP572%20v1%20Schematic%20and%20Board%20Views.PDF)
+- [Assembly drawing (PDF)](outputs/fastedge-ADCMP572%20v1/fastedge-ADCMP572%20v1%20Assembly%20Drawing.PDF)
+- [Interactive HTML assembly / BOM](outputs/fastedge-ADCMP572%20v1/fastedge-ADCMP572%20-%20Assembly.html)
 - ODB++ (`odb.zip`)
 
