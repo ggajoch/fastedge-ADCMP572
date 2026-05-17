@@ -117,6 +117,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFTOZVPD
 
+[GeneratedDocument1]
+DocumentPath=fastedge-ADCMP572.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
